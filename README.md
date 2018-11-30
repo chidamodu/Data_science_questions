@@ -1,2 +1,2 @@
-# Data_science_questions
+# Data Science/ Analytics
 Data science questions and answers
